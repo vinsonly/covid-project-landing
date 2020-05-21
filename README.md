@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cfec9967-217e-4b9b-8827-94514e948fb1/deploy-status)](https://app.netlify.com/sites/bridgeit-covid/deploys)
+
 # React Landing Page
 
 ## Installing
