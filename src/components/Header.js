@@ -25,14 +25,14 @@ const Header = () => {
             onClick={scrollTo("home")}
             aria-label="Logo"
           >
-            LOGO
+          Bridgeit
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav">
             <span />
             <span />
             <span />
           </Navbar.Toggle>
-          <Navbar.Collapse id="basic-navbar-nav">
+          {/* <Navbar.Collapse id="basic-navbar-nav">
             <Nav>
               <Link
                 href="#"
@@ -71,7 +71,7 @@ const Header = () => {
                 Contact
               </Link>
             </Nav>
-          </Navbar.Collapse>
+          </Navbar.Collapse> */}
         </Container>
       </Navbar>
     </header>

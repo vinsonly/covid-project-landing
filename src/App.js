@@ -34,7 +34,7 @@ const App = () => {
       <main>
         <Home />
         <About />
-        <Contact />
+        {/* <Contact /> */}
       </main>
     </Fragment>
   );

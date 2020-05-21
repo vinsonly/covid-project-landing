@@ -86,20 +86,17 @@ const About = () => {
   return (
     <Section id="about">
       <div className="container">
-        <SectionTitle>Lorem ipsum dolor sit amet</SectionTitle>
-        <SubTitle>Lorem ipsum dolor sit amet</SubTitle>
+        {/* <SectionTitle>Lorem ipsum dolor sit amet</SectionTitle>
+        <SubTitle>Lorem ipsum dolor sit amet</SubTitle> */}
         <div className="row">
           <div className="col-lg-4">
             <Box data-aos={width >= 1400 ? "fade-right" : "fade-up"}>
               <IconWrap>
                 <Demo />
               </IconWrap>
-              <BoxTitle>Declarative</BoxTitle>
+              <BoxTitle>Mentees</BoxTitle>
               <Text>
-                React makes it painless to create interactive UIs. Design simple
-                views for each state in your application, and React will
-                efficiently update and render just the right components when
-                your data changes.
+                Connect with mentors that are here to support you on your journey to land your dream career. Browse through and chat with professionals of all industries. Gain valuable industry insights and how to set yourself up for success. 
               </Text>
             </Box>
           </div>
@@ -108,11 +105,9 @@ const About = () => {
               <IconWrap>
                 <Demo />
               </IconWrap>
-              <BoxTitle>Component-Based</BoxTitle>
+              <BoxTitle>Mentors</BoxTitle>
               <Text>
-                Since component logic is written in JavaScript instead of
-                templates, you can easily pass rich data through your app and
-                keep state out of the DOM.
+                Join our fight to promote economic inclusion for young professionals, strengthen communities, and reduce inequalities. Connect with passionate individuals with impressive backgrounds.  
               </Text>
             </Box>
           </div>
@@ -121,11 +116,9 @@ const About = () => {
               <IconWrap>
                 <Demo />
               </IconWrap>
-              <BoxTitle>Learn Once, Write Anywhere</BoxTitle>
+              <BoxTitle>Sponsors</BoxTitle>
               <Text>
-                We don’t make assumptions about the rest of your technology
-                stack, so you can develop new features in React without
-                rewriting existing code.
+                Help us fight the effects of the COVID-19 pandemic. Support young professionals to find their dream jobs, promote economic growth, and bring prosperity to our communities.  
               </Text>
             </Box>
           </div>
